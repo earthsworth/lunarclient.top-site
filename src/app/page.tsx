@@ -45,12 +45,12 @@ export default function Home() {
         <section>
           <h2 className="text-2-xl">Why Selling Users' Data is Bad</h2>
           <p>
-            Selling users’ data violates their trust and privacy. It treats
-            personal information as a commodity without the individual’s genuine
+            Selling users' data violates their trust and privacy. It treats
+            personal information as a commodity without the individual's genuine
             consent, exposing them to risks such as profiling, discrimination,
             or identity theft. This practice undermines transparency and
             control, stripping people of the ability to decide how their data is
-            used. Ethical software should prioritize protecting users’
+            used. Ethical software should prioritize protecting users'
             information rather than monetizing it behind their backs.
           </p>
         </section>
