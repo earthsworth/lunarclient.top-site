@@ -35,23 +35,24 @@ export default function Home() {
             trust. Instead of empowering users to control what information they
             share, it assumes they are willing participants in data collection.
             Respectful software design requires transparency and opt-in choices,
-            ensuring that people know what's being collected and can decide for
-            themselves.
+            ensuring that people know what&apos;s being collected and can decide
+            for themselves.
           </p>
           <p>We never add telemetry to the user-end software.</p>
-          <p>Users' privacy matter</p>
+          <p>Users&apos; privacy matter</p>
         </section>
 
         <section>
-          <h2 className="text-2-xl">Why Selling Users' Data is Bad</h2>
+          <h2 className="text-2-xl">Why Selling Users&apos; Data is Bad</h2>
           <p>
-            Selling users' data violates their trust and privacy. It treats
-            personal information as a commodity without the individual's genuine
-            consent, exposing them to risks such as profiling, discrimination,
-            or identity theft. This practice undermines transparency and
-            control, stripping people of the ability to decide how their data is
-            used. Ethical software should prioritize protecting users'
-            information rather than monetizing it behind their backs.
+            Selling users&apos; data violates their trust and privacy. It treats
+            personal information as a commodity without the individual&apos;s
+            genuine consent, exposing them to risks such as profiling,
+            discrimination, or identity theft. This practice undermines
+            transparency and control, stripping people of the ability to decide
+            how their data is used. Ethical software should prioritize
+            protecting users&apos; information rather than monetizing it behind
+            their backs.
           </p>
         </section>
       </main>
