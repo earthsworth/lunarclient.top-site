@@ -21,7 +21,7 @@ export default function Home() {
           <h2 className="text-2xl">Who We Are</h2>
           <p>
             We believe that creativity are being to developers, we have
-            creativity. If you also have creative, feel free to join our club!
+            creativity. If you also have creativity, feel free to join our club!
           </p>
           <p>BTW, we love open source</p>
         </section>
