@@ -25,6 +25,35 @@ export default function Home() {
           </p>
           <p>BTW, we love open source</p>
         </section>
+
+        <section>
+          <h2 className="text-2xl">Why Clientside Telemetry is bad</h2>
+          <p>
+            Adding telemetry to software without clear consent shows a lack of
+            respect for users. It collects data about their behavior and
+            environment without explicit permission, undermining privacy and
+            trust. Instead of empowering users to control what information they
+            share, it assumes they are willing participants in data collection.
+            Respectful software design requires transparency and opt-in choices,
+            ensuring that people know what's being collected and can decide for
+            themselves.
+          </p>
+          <p>We never add telemetry to the user-end software.</p>
+          <p>Users' privacy matter</p>
+        </section>
+
+        <section>
+          <h2 className="text-2-xl">Why Selling Users' Data is Bad</h2>
+          <p>
+            Selling users’ data violates their trust and privacy. It treats
+            personal information as a commodity without the individual’s genuine
+            consent, exposing them to risks such as profiling, discrimination,
+            or identity theft. This practice undermines transparency and
+            control, stripping people of the ability to decide how their data is
+            used. Ethical software should prioritize protecting users’
+            information rather than monetizing it behind their backs.
+          </p>
+        </section>
       </main>
       <footer className="mt-5">
         <b className="text-3xl">FOSS & ❤️️</b>
